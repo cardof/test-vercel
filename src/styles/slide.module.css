@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.itemTitle{
+
+    font-family: "Montserrat",sans-serif;
+    font-weight:600;
+    font-size: 2.5em;
+  
+  }
+
+  .itemPrice{
+  
+    font-family:"Montserrat",sans-serif;
+    font-weight: var(--bs-body-font-weight);
+    font-size: 2em;
+  
+  }
+  .auxInfo p{
+    color : #efefef!important;
+  }
+  .NFTInfo p{
+    font-family:"Montserrat",sans-serif;
+  }
