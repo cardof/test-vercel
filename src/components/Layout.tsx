@@ -46,7 +46,7 @@ const Layout = ({ children }) => {
                     </svg>
                   </div>
                   <span className="text-lg font-medium">
-                    Headless Dropshipping Starter
+                    Headless Dropshipping Starter EN RUNAS
                   </span>
                 </a>
               </Link>
