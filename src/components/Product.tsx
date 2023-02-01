@@ -102,6 +102,10 @@ const Product = (product) => {
           data-item-description={activeVariant.name}
           data-item-image={activeVariantFile.preview_url}
           data-item-name={name}
+          //fcpph
+          data-item-custom2-name={"referral"}
+          data-item-custom2-type={"hidden"}
+          data-item-custom2-value={"AmbassadorID"}
         >
           Add to Cart
         </button>
